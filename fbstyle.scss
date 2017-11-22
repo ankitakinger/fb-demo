@@ -1,0 +1,33 @@
+.block{
+	border: 1px solid black;
+	width: 370px;
+	padding:2px;
+	margin:10px;
+	margin-left: 0px;
+	background-color: lightblue;
+
+	.checkStatus{
+		font-weight: bold;
+		font-size: 25px;
+		border-bottom: 0.5px solid grey;
+		margin-bottom: 2px;
+	}
+
+	.likebtn{
+		width:120px;
+	}
+
+	.commentbtn{
+		width:120px;
+	}
+
+	.sharebtn{
+		width:120px;
+	}
+}
+
+.postbtn{
+	margin-left: 320px;	
+	font-weight: bold;
+	font-size: 15px;
+}
